@@ -20,7 +20,7 @@
 
 <h2>Folder Structure</h2>
 <ul>
-    <li><code>node_modules</code> - Node.js packages</li>
+    <li><code>node_modules</code> - Node.js packages will be auto download when installing requirements.</li>
     <li><code>skillshare_courses</code> - Downloaded courses will appear here</li>
     <li><code>.gitignore</code></li>
     <li><code>index.js</code> - Main script</li>
