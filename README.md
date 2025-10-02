@@ -117,3 +117,7 @@ npm -v</code></pre>
     <li>Make sure your internet connection is stable.</li>
     <li>No subtitles are downloaded by default. You can configure this in <code>index.js</code> if desired.</li>
 </ul>
+
+```markdown
+credit: This Script is modified from ReneR97's [repo}(https://github.com/ReneR97/skillshare-downloader)
+```
