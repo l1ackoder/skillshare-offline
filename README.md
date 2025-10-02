@@ -26,7 +26,7 @@
     <li><code>index.js</code> - Main script</li>
     <li><code>package.json</code></li>
     <li><code>package-lock.json</code></li>
-    <li><code>download.bat</code> - Run this to start downloading</li>
+    <li><code>hack it.bat</code> - Run this to start downloading</li>
     <li><code>install_requirements.bat</code> - Install all required Node.js packages</li>
 </ul>
 
