@@ -37,7 +37,7 @@ function openUrlInDefaultBrowser(url) {
 
     exec(command, (err) => {
         if (err) console.error(chalk.red('Failed to open URL:', err));
-        else console.log(chalk.blueBright('Opened link in default browser:', url));
+        else console.log(chalk.blueBright('Thanks for using. Yours -', url));
     });
 }
 
