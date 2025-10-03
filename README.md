@@ -72,12 +72,13 @@ npm -v</code></pre>
     <li>Open Chrome and go to <a href="https://www.skillshare.com/">Skillshare</a>.</li>
     <li>Log in to your account.</li>
     <li>Open <strong>Cookie Editor extension</strong>.</li>
-    <li>Copy the following cookies:
+    <li>Copy the following cookie values:
         <ul>
             <li><code>PHPSESSID</code></li>
             <li><code>skillshare_user_</code></li>
         </ul>
     </li>
+    https://imgur.com/a/CZmkyuD
 </ol>
 
 <hr>
