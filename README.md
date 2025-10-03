@@ -1,6 +1,6 @@
 <h1>Skillshare Downloader</h1>
 <p>A Node.js script to download Skillshare course videos directly to your local machine. Supports automatic organization by course and video index.</p>
-
+You will need a skillshare premium account to access premium content. This script will not handle login for you. Support content creator's. Do not use for Piracy. I will be not responsible for any illegal activity. I needed offline video for my self.
 <hr>
 
 <h3>Follow me to show support</h3>
